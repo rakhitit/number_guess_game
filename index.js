@@ -38,6 +38,7 @@ const match_data=()=>{
     generate_number_btn_click();
 }
 
+
 const change_color=()=>{
     document.getElementById("getnum").style.backgroundColor="#e2e2e2e2";
 }
